@@ -11,8 +11,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "youruser-books-dev"
-        STAGE_PROJECT = "youruser-books-stage"
+        DEV_PROJECT = "ebgzia-books-dev"
+        STAGE_PROJECT = "ebgzia-books-stage"
         APP_GIT_URL = "https://github.com/in1941c/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/nodejs"
 
